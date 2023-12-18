@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Toby Haywood and I'm a student in frontend from Norway.</p>
+<p align="left">You can call me Haywood and I'm a student in frontend from Norway.</p>
 
 ###
 
