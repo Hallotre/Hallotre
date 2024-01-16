@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning frontend<br>🎯 Goals: Become a fully fronend developer<br>🎲 Fun fact: I have no idea what I'm doing</p>
+<p align="left">✨ Creating spaghetti since 2023<br>📚 I'm currently learning frontend<br>🎯 Goals: Become a fully fronend developer<br>🎲 Fun fact: I have no idea what I'm doing</p>
 
 ###
 
