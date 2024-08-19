@@ -29,5 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/316a175e-5b93-4ab1-9f76-1f9ab3fcb722" height="40" alt="lua logo"  />
+  <img width="12" />
 </div>
 
