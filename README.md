@@ -6,8 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
 
 
 <h2 align="left">I work with</h2>
