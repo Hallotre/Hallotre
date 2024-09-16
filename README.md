@@ -1,12 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">You can call me Haywood and I'm a student in frontend from Norway.</p>
+<p align="left">I'm a student in frontend from Norway.</p>
 
 ###
-
-
 
 <h2 align="left">I work with</h2>
 
