@@ -8,11 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-###
 
-<p align="left">✨ Creating spaghetti since 2023<br>📚 I'm currently learning frontend<br>🎯 Goals: Become a fronend developer<br>🎲 Fun fact: I have no idea what I'm doing</p>
-
-###
 
 <h2 align="left">I work with</h2>
 
